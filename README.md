@@ -11,5 +11,5 @@ A simple calculator that can add, subtract, multiply, or divide, and then rounds
 2. Clone or download this repository.
 3. Run the script using the terminal:
    ```bash
-   python port_calculator.py
+   python python_calculator.py
    ```
