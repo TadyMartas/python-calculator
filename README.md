@@ -1,6 +1,6 @@
 # python calculator
 
-A simple calculator that can add, subtract, multiply, or divide, and then rounds the number to two decimal places
+A simple calculator that can add, subtract, multiply, or divide, and then rounds the number to three decimal places
 
 ## Features
 * **Addition, Subtraction, Multiplication, Division:** Allows the user to choose which operation they want to perform
