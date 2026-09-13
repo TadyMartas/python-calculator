@@ -16,7 +16,10 @@ elif operator == "*":
     result = num1 * num2
     print(round(result, 3))
 elif operator == "/":
-    result = num1 / num2
-    print(round(result, 3))
+    if num2 == 0:
+        print("Cannot divide by zero")
+    else:
+        result = num1 / num2
+        print(round(result, 3))
 else: # Checks for invalid operator
     print(f"{operator} is not a valid operator")
